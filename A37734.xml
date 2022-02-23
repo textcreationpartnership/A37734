@@ -1,0 +1,213 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of the Lords and Commons assembled in Parliament for the raising of all power and force, as well trained bands as others, in severall counties of this kingdome to leade against all traytors and their adherents and them to arrest and imprison ... all such as shall oppose any of His Majesties loving subjects that shall be imployed in this service by either or both Houses of Parliament : together with His Majesties declaration in answer to the same.</title>
+            <author>England and Wales. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A37734</idno>
+            <idno type="STC">Wing E1427</idno>
+            <idno type="STC">ESTC R30019</idno>
+            <idno type="EEBO-CITATION">11232761</idno>
+            <idno type="OCLC">ocm 11232761</idno>
+            <idno type="VID">47000</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A37734)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 47000)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1440:82)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of the Lords and Commons assembled in Parliament for the raising of all power and force, as well trained bands as others, in severall counties of this kingdome to leade against all traytors and their adherents and them to arrest and imprison ... all such as shall oppose any of His Majesties loving subjects that shall be imployed in this service by either or both Houses of Parliament : together with His Majesties declaration in answer to the same.</title>
+                  <author>England and Wales. Parliament.</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I)</author>
+               </titleStmt>
+               <extent>[2], 13 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Barker ... and by the assignes of John Bill,</publisher>
+                  <pubPlace>York :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Civil War, 1642-1649.</term>
+               <term>Great Britain --  Politics and government --  1642-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:47000:1"/>
+            <pb facs="tcp:47000:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF THE LORDS and COMMOMS Aſſembled in PARLIAMENT.</p>
+            <p>For the raiſing of all power, and Force, as well Trained Bands as others, in ſeve<g ref="char:EOLhyphen"/>rall Counties of this Kingdom.</p>
+            <p>To leade againſt all Traytors and their Adherents, and them to Arreſt and Impriſon and to fight with, Kill, and Slay all ſuch as ſhall oppoſe any of His Majeſties lo<g ref="char:EOLhyphen"/>ving Subjects, that ſhall be imployed in this Service, by either or both Houſes of PARLIAMENT.</p>
+            <p>Together With His Majeſties DECLARATION In Anſwer to the ſame.</p>
+            <figure>
+               <figDesc>Tudor rose</figDesc>
+            </figure>
+            <figure>
+               <figDesc>Scottish thistle</figDesc>
+            </figure>
+            <figure>
+               <figDesc>French fleur-de-lis</figDesc>
+            </figure>
+            <figure>
+               <figDesc>depiction of Irish harp</figDesc>
+            </figure>
+            <p>YORK: Printed by ROBERT BARKER, Printer to the Kings moſt Excellent Majeſty<hi>:</hi> And by the Aſſignes of JOHN BILL, 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="illustration">
+            <pb facs="tcp:47000:2" rendition="simple:additions"/>
+            <p>
+               <figure>
+                  <head>C R</head>
+                  <q>HONI SOIT QVI MAL Y PENSE</q>
+                  <figDesc>royal blazon or coat of arms</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="Parliamentary_declaration">
+            <pb n="1" facs="tcp:47000:2"/>
+            <head>
+               <figure>
+                  <figDesc>series of Tudor roses, Scottish thistles, French fleur-de-lis, and Irish harps</figDesc>
+               </figure>
+            </head>
+            <head>A Declaration of the LORDS and COMMONS Aſſembled in PARLIAMENT: For the raiſing of all power, and force, as well Trained Bands as others, in ſeve<g ref="char:EOLhyphen"/>rall Counties of this Kingdom.</head>
+            <argument>
+               <p>To leade againſt all Traitors and their Adherents, and them to Arreſt, and Impriſon, and to fight with, Kill and Slay all ſuch as ſhall oppoſe any of His Maje<g ref="char:EOLhyphen"/>ſties Loving Subjects that ſhall be imployed in this ſervice by either or both Houſes of PARLIAMENT.</p>
+            </argument>
+            <p>WHereas certain Information is gi<g ref="char:EOLhyphen"/>ven from ſeverall parts of the King<g ref="char:EOLhyphen"/>dom, That divers Troops of Horſe are imployed in ſundry Counties of the Kingdom, and that others have Commiſſion to raiſe both Horſe and Foot, to compell His Majeſties Subjects to ſubmit to the Illegall Commiſſion of Array, out of a Trayterous
+<pb n="4" facs="tcp:47000:3"/>
+intent to ſubvert the Liberty of the Subject, and the Law of the Kingdom; and for the better ſtrength<g ref="char:EOLhyphen"/>ning themſelves in this wicked attempt, doe joyn with the Popiſh and Jeſuiticall Faction, to put the Kingdom into a combuſtion and Civill War, by leavying forces againſt the Parliament; and by theſe Forces to alter the Religion, and the ancient Govern<g ref="char:EOLhyphen"/>ment, and lawfull Liberty of the Kingdom; and to introduce Popery and Idolatry, together with an Arbitrary Form of Government: And in purſuance thereof, have Traiterouſly and Rebelliouſly, leavyed War againſt the King, and by force, robb'd, ſpoyl'd, and ſlain divers of His Majeſties good Subjects, travel<g ref="char:EOLhyphen"/>ling about their lawfull and neceſſary occaſions, in the Kings Protection according to Law; and name<g ref="char:EOLhyphen"/>ly, That for the'nd and purpoſe aforeſaid, The Earl of <hi>Northampton,</hi> the Lord <hi>Dunſmore,</hi> Lord <hi>Willough<g ref="char:EOLhyphen"/>by</hi> of <hi>Eresby,</hi> Son to the Earl of <hi>Linſey, Henry Ha<g ref="char:EOLhyphen"/>ſtings</hi> Eſquire: and divers other unknown Perſons in the Counties of <hi>Lincoln, Nottingham, Leiceſter, Warwick, Oxford,</hi> and other places, the Mar<g ref="char:EOLhyphen"/>queſſe of <hi>Hertford,</hi> the Lord <hi>Paulet,</hi> Lord <hi>Seymer,</hi> Sir <hi>John Stawell,</hi> Sir <hi>Ralph Hopton, John Digby</hi> Eſq. and other their Accomplices, have gotten together great Forces in the County of <hi>Sommerſet.</hi> The Lords and Commons in Parliament, duely conſide<g ref="char:EOLhyphen"/>ring the great dangers which may enſue upon ſuch their wicked and Trayterous deſignes, and if by this means the Power of the Sword ſhould come into the Hands of Papiſts and their Adherents, nothing can be expected but the miſerable ruine and deſola<g ref="char:EOLhyphen"/>tion
+<pb n="5" facs="tcp:47000:3"/>
+of the Kingdom, and the bloudy maſſacre of the Proteſtants: They doe Declare and Ordain, That it is, and ſhall be lawfull, for all His Majeſties loving Subject<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, by force of Arms to reſiſt the ſaid ſeverall Parties, and their Accomplices, and all other that ſhall raiſe or conduct any other Forces for th'ends aforeſaid, and that the Earl of <hi>Eſſex</hi> Lord Generall, with all his Forces raiſed by the authority of Parlia<g ref="char:EOLhyphen"/>ment: as likewiſe the Lord <hi>Say,</hi> Lievtenant of <hi>Ox<g ref="char:EOLhyphen"/>fordſhire,</hi> Earl of <hi>Peterborough,</hi> Lievtenant of <hi>Nor<g ref="char:EOLhyphen"/>thamtonſhire,</hi> Lord <hi>Wharton,</hi> Lievtenant of <hi>Bu<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k<g ref="char:EOLhyphen"/>inghamſhire,</hi> Earl of <hi>Stamford</hi> Lievtenant of <hi>Leice<g ref="char:EOLhyphen"/>ſterſhire,</hi> Earl of <hi>Pembrook</hi> Lievtenant of <hi>Wilt<g ref="char:EOLhyphen"/>ſhire</hi> and <hi>Hampſhire,</hi> Earl of <hi>Bedford</hi> Lievtenant of <hi>Sommerſetſhire</hi> and <hi>Devon,</hi> Lord <hi>Brook</hi> Liev<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enant of <hi>Warwickſhire,</hi> the Lord <hi>Cramborne</hi> Lievtenant of <hi>Dorſerſhire,</hi> the Lord <hi>Willoughby</hi> of <hi>Parham</hi> Lievte<g ref="char:EOLhyphen"/>nant of <hi>Lincolnſhire,</hi> and all thoſe who are, or ſhall be appointed by Ordinance of both Houſes, to per<g ref="char:EOLhyphen"/>form the Place of Deputy Lievtenants, and their Deputy Lievtenants reſpectively, <hi>Denſill Hollis</hi> Eſ<g ref="char:EOLhyphen"/>quire, Lievtenant of the City and County of <hi>Bri<g ref="char:EOLhyphen"/>ſtoll,</hi> and the Majors and Sheriffes of the City, and Deputy Lievtenants there, and all other Lievtenants of Counties, Sheriffs, Majors, Deputy Lievtenants, ſhall raiſe all their Power and Forces of their ſe<g ref="char:EOLhyphen"/>verall Counties, as well Trained Bands as others, and ſhall have power to conduct, and leade the ſaid For<g ref="char:EOLhyphen"/>ces of the ſaid Counties againſt the ſaid Traytors and their Adherents, and with them to fight, kill and ſlay, all ſuch as by Force ſhall oppoſe them and
+<pb n="4" facs="tcp:47000:4"/>
+the Perſons of the ſaid Traytors, and their Adhe<g ref="char:EOLhyphen"/>rents, and Accomplices, to Arreſt and Impriſon, and them to bring up to the Parliament, to anſwer this their Trayterous and Rebellious Attempts accor<g ref="char:EOLhyphen"/>ding to Law, and the ſame or any ot<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er Forces, to tranſport and conduct from one County to another, in ayd and aſſiſtance one of another, and of all others that ſhall joyn with the Lords and Commons in Parliament, for the defence of the Religion of Al<g ref="char:EOLhyphen"/>mighty God, and of the Liberties and Pe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce of tho Kingdom, and in purſuit of thoſe wicked and Re<g ref="char:EOLhyphen"/>bellious Traytor<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, their Conſpirators, Ayders and Abettors, and Adherents, requiring all Lieu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>enants of Counties, Sheriffs, Majors, Juſtices of Pe<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ce, and other His Majeſties Officers and loving Subjects, to be ayding and aſſiſting to one another in the Execu<g ref="char:EOLhyphen"/>tion hereof, and for their ſo doing, all the parties above mentioned, and all others that ſhall joyn with them ſhall be juſtified, defended, and ſecured, by tho Power and Authority of Parliament.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="license">
+            <p>Ordered that this be forthwith Printed:</p>
+            <closer>
+               <signed>H. Elſynge, Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <div type="response_to_Parliamentary_declaration">
+            <pb n="1" facs="tcp:47000:4"/>
+            <head>His Majeſties Declaration, in Anſwer to a Declara<g ref="char:EOLhyphen"/>tion of the Lords and Commons Aſſembled in Parlia<g ref="char:EOLhyphen"/>ment, for the rayſing of all Power and Force, aſwell Trained Bands, as others, in ſeverall Coun<g ref="char:EOLhyphen"/>ties of the Kingdom, to leade againſt all Traytors and their Ad<g ref="char:EOLhyphen"/>herents, &amp;c.</head>
+            <p>AS much experience as we have had of the inveterate rancour and high Inſo<g ref="char:EOLhyphen"/>lence of the malignant party againſt us, we never yet ſaw any expreſſion come from them, ſo evidently declaring it, as the Declaration entituled, A <hi>Declaration of the Lords and Commons Aſſembled in Parliament, for the rayſing of all Power and Force, aſwell Trayned Bands, as others in ſeverall Counties of this Kingdom, to leade againſt all Traytors, and their Adherents,</hi> &amp;c. In which, That Faction hath as it were diſtilled, and contracted all their falſ<g ref="char:EOLhyphen"/>hood, Inſolence, and Malice; There being in it not one period which is not either ſlanderous or treaſonable; and nothing can more grieve us, then
+<pb n="6" facs="tcp:47000:5"/>
+that by their infinite Arts &amp; Subtilty (employed by their perpetuall and indefatigable induſtry) and by that rabble of Browniſts and other Schiſ<g ref="char:EOLhyphen"/>matickes declaredly ready to appeare at their call, they ſhould have been able ſo to draw away ſome, and drive away others of our good Sub<g ref="char:EOLhyphen"/>jcts from our Parliament, as to prevaile with the Major Part remaining of both Houſes (how much ſoever that Major part be the ſmaller, in compariſon of the whole) to ſuffer that name (whoſe reverence by all means we deſire to pre<g ref="char:EOLhyphen"/>ſerve) to be ſo ſoyl'd, as to be prefixed to a Pa<g ref="char:EOLhyphen"/>per of this unſufferable nature; That tends not onely to the deſtruction of our Perſon, but to the diſſolution of this Government, and of all Society; If at leaſt this Declaration (which we rather ſee cauſe to hope it hath not) have ſo much as been ſeen in the Houſes, and be not the ſingle Work of the ſame Omnipotent Com<g ref="char:EOLhyphen"/>mittee, to which is devolved the whole power of the Parliament; and which, as We underſtand, is truſted (without acquainting the Houſes) to break up any Mans Houſe, and take away the Arms and Mony intended to defend and feed him (if they ſhall ſee cauſe to ſuſpect that he meant to aſſiſt His Soveraign with them) and
+<pb n="7" facs="tcp:47000:5"/>
+may well be as fully and implicitely truſted to Declare, as to Act whatſoever they pleaſe. And though We doubt not, but to their utmoſt, they will continue that Injury to Us, and that viola<g ref="char:EOLhyphen"/>tion of the Subjects Libertie, and of publique Right, to vex and Impriſon thoſe, who ſhall pub<g ref="char:EOLhyphen"/>liſh any of our Anſwers, to their Declarations, (and indeed whilſt they affirme againſt all Truth, and command againſt all Law, it con<g ref="char:EOLhyphen"/>cerns them to take care that nothing be heard, but what they ſhall ſay) yet Our comfort is, That Our Intentions, and the Duty of Our Sub<g ref="char:EOLhyphen"/>jects are ſo well, and ſo generally known to Our People, that We cannot Fear (from whomſoever it come, and though no Anſwer came out with it) that, either what is there ſaid, ſhould be be<g ref="char:EOLhyphen"/>lieved, or what is there commanded, ſhould be obeyed. Who knows not, That Our Commiſſi<g ref="char:EOLhyphen"/>ons for Horſe and Foot were not granted out, till not only Our Prerogative, but Our Proprie<g ref="char:EOLhyphen"/>ty, Our Goods, Arms, Towns, <hi>Militia;</hi> and nega<g ref="char:EOLhyphen"/>tive Voice were taken from Us; and all the Kingdome commanded to be in Arms, and Invi<g ref="char:EOLhyphen"/>ted to bring in Horſe, Plate, and Mony, to frame an Army againſt Our Command and Proclama<g ref="char:EOLhyphen"/>tion, and till Horſe were raiſed, and Muſtred
+<pb n="8" facs="tcp:47000:6"/>
+accordingly? And then, with no Intention (nor hath any Action in any of Our Miniſters, given the leaſt ſuſpition of ſuch an Intention) by them to compell Our Subjects, to ſubmit to Our Commiſſions of Array, or make uſe of them a<g ref="char:EOLhyphen"/>gainſt the Parliament, but to re-gain <hi>Hull,</hi> held out in Rebellion againſt Us; And to ſuppreſſe all ſuch, as vvithout Our Authority, and againſt Our Commands, ſhould raiſe Forces in this Our Kingdom, and leavie War againſt Us, under pre<g ref="char:EOLhyphen"/>tence of any Order, or Ordinance of one or both Houſes; and ſuch Trayterous Aſſemblies and Marches have been the onely lawfull and ne<g ref="char:EOLhyphen"/>ceſſary occaſions of Our good Subjects, which have been ſo much as interrupted by any Troops of Ours; And vvhat is affirm'd of the ſpoiling and killing them, as they were ſo Travelling un<g ref="char:EOLhyphen"/>der our Protection, and according to Law, is a moſt malicious Affirmation, aſwell vvithout Truth, as vvithout Inſtance, invented at once to make Our Troops terrible, and Us odious to Our People. What care have We taken, That (by this means) the power of the Sword ſhould not come into the Hands of Papiſts, vvho have by Our Proclamation ſtrictly charged, That no Papiſt ſhould preſume to liſt himſelfe, either as
+<pb n="9" facs="tcp:47000:6"/>
+Officer or Souldier in this Our Army, having di<g ref="char:EOLhyphen"/>rected how he ſhould be diſcovered, if he did preſume; and ſuffer, if he were diſcovered? What care have we taken to avoyd combuſtion and Civill War, offering to lay down Our Arms, when they ſhall have laid down theirs (in whom it was Treaſon to take them up) and reſtored Us thoſe things which could not without Treaſon, as well as Injuſtice be ſorced away; and kept from Us, Our Arms, Ships, Town, &amp;c. And when We might meet both Our Houſes in a ſafe and ſecure place, to debate freely of all the differen<g ref="char:EOLhyphen"/>ces in a Parliamentary way; And by whoſe in<g ref="char:EOLhyphen"/>fluences theſe Propoſitions were rejected, and whether the Propoſer or Rejecters were moſt carefull to avoid this ruine and deſolation of the Kingdom, We leave all the World to Judge; and whether they, who divert the Men and Money collected for the reliefe of diſtreſſed <hi>Ireland,</hi> to raiſe ſorces againſt their Prince (vvho asks them nothing but vvhat is Legall, nor vvill deny them any that is) doe not joyn vvith the Popiſh and Jeſuiticall faction in the bloudy Maſſacre of ma<g ref="char:EOLhyphen"/>ny thouſand Proteſtants in that miſerable King<g ref="char:EOLhyphen"/>dom. We propoſe likewiſe to every Mans Judge<g ref="char:EOLhyphen"/>ment; whether the Declaring thoſe to be Tray<g ref="char:EOLhyphen"/>tors,
+<pb n="10" facs="tcp:47000:7"/>
+vvho execute Our Commiſſion of Array (iſ<g ref="char:EOLhyphen"/>ſued in ſo many Kings Reign, agreed upon by Parliament, and there yeelded to by the King, to be ſetled as now it is, as a mat<g ref="char:EOLhyphen"/>ter of great grace. And ſince that time, which vvas in 5. <hi>Hen.</hi> 4. in no Parliament complained of) whilſt Our good ſubjects are vexed and Im<g ref="char:EOLhyphen"/>priſoned, not onely for reſiſting, but for humbly Petitioning ſo as may ſeem but to inſinuate ſomething againſt their moſt illegall commands concerning the <hi>Militia</hi> (to vvhich power of com<g ref="char:EOLhyphen"/>manding, no Tytle can be made by any Statute, or any Precedent, nor can We ever find by ſearch, nor obtain to be told what theſe funda<g ref="char:EOLhyphen"/>mentall Laws are, by vvhich it is pretended; ſo deep thoſe foundations are laid, beyond all means of diſcovery.) And the Declaring, That thoſe vvho raiſe Men by vertue of Our Com<g ref="char:EOLhyphen"/>mand and Commiſſion (the onely Legall vvay) Traiterouſly and Rebelliouſly leavie War againſt the King; and ordaining it to be lawfull for all Our Subjects by force of Arms to reſiſt them, and their accomplices; and the raiſing forces by authoritie of Parliament (that is, by the remai<g ref="char:EOLhyphen"/>ning part of both Houſes) never in the moſt outragious times before attempted, and com<g ref="char:EOLhyphen"/>manding
+<pb n="11" facs="tcp:47000:7"/>
+ſeverall Perſons whom they call Liev<g ref="char:EOLhyphen"/>tenants, to leade, and giving them power to tranſport from one County to another, the For<g ref="char:EOLhyphen"/>ces of ſeverall of Our Counties againſt them, and to kill and ſlay all ſuch, as by force ſhall op<g ref="char:EOLhyphen"/>poſe them, Our Selfe not excepted; comman<g ref="char:EOLhyphen"/>ding all Our Officers and Subjects to be aſſiſting to them, and undertaking to ſecure them for ſo doing, by the Power and Authority of Parlia<g ref="char:EOLhyphen"/>ment (vvhich is firſt to allow, and next to com<g ref="char:EOLhyphen"/>mand, and then to pardon Treaſon) be not to have already ſubverted, as much as in them lies, the Liberty of the Subject, the Law of the Land, and altered the Ancient Government of the Kingdom, leaving Our Subjects vvithout all Rule to vvalk by, vvhen the moſt clear Laws cannot direct and ſecure them; and they ſee all thoſe ancient bounds paſſed over, which were e<g ref="char:EOLhyphen"/>ver as much known to be the Duty of both Hou<g ref="char:EOLhyphen"/>ſes to obſerve, as it vvas evident that there were, and that it vvas neceſſary that there ſhould be two Houſes of Parliament, and at once behold the Law (vvhich is to Defend and Protect the Subject) and Us (vvho are to Protect and De<g ref="char:EOLhyphen"/>fend the Law) need Defence and Protection. We doubt not therefore, but all Our good Sub<g ref="char:EOLhyphen"/>jects
+<pb n="12" facs="tcp:47000:8"/>
+will come in to Our Aſſiſtance, and that this wicked charge of intending to introduce Popery, Idolatry, and Arbitrary government laid by implication upon us, (becauſe we de<g ref="char:EOLhyphen"/>fend our ſelves, and would recover our own) will be ſo farre from being a motive againſt us, that this intolerable indignitie and damnable ſcandall (ſo daily and viſibly confuted by all Our Profeſſions and Actions) will encreaſe Our good Subjects zeale towards Us, and their in<g ref="char:EOLhyphen"/>dignation againſt the Contrivers; And they will eſteem themſelves obliged by the Religion of Almighty God, to oppoſe this War ſo impi<g ref="char:EOLhyphen"/>ouſly, ſo treaſonably and ſo groundleſly made upon Us their King and his Anointed: We therefore require all Our Commiſſioners of Ar<g ref="char:EOLhyphen"/>ray, Sheriffes, and all Our other Officers and Mi<g ref="char:EOLhyphen"/>niſters to raiſe all the power and forces of their ſeverall Counties to aſſ<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſt the Marqueſſe of <hi>Hertford,</hi> the Earle of <hi>Northampton,</hi> the Lord <hi>Wil<g ref="char:EOLhyphen"/>loughby</hi> of <hi>Eresby,</hi> the Lord <hi>Pawlet,</hi> the Lord <hi>Sey<g ref="char:EOLhyphen"/>mour,</hi> the Lord <hi>Dunſmore, Henry Haſtings</hi> Eſq; Sir <hi>John, Stowell,</hi> Sir <hi>Ralph Hopton, John Digby</hi> Eſq; and all other in the legall and neceſſarie ex<g ref="char:EOLhyphen"/>ecuting of our Commiſſions of Array, and in the raiſing and conducting of ſuch Horſe and Foot as
+<pb n="13" facs="tcp:47000:8"/>
+ſhall be raiſed by Our Commiſſion, and by force of Arms to oppoſe the Earle of <hi>Eſſex,</hi> the Lord <hi>Say,</hi> and all other that ſhall raiſe or conduct any forces raiſed by pretence of Authoritie of both Houſes, and the Perſons of all ſuch Traytors, and their Adherents, and Accomplices, to arreſt and impriſon; To the end they may be brought to a faire and legall tryall, by their Peers, and according to the Law: And this we require from them, as they tender the Defence of Our Perſon, the true Religion, the Law of the Land, the Libertie and propertie of the Subject, and the true and juſt Priviledges of Parliament. And for ſo doing they ſhall be defended and ſecured by Us, and by the Law; with whom, and with which, we doubt not, but Our Subjects will ſooner chooſe to live and die, then with the Earle of <hi>Eſſex</hi> and his Adherents.</p>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
